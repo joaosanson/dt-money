@@ -1,7 +1,7 @@
-import { SearchFormContainer } from "./styles";
+import { SearchFormContainer } from './styles'
 
 export function SearchForm() {
-  return(
+  return (
     <SearchFormContainer>
       <input type="text" />
       <button>Enviar</button>

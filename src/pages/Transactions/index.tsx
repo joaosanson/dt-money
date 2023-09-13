@@ -1,6 +1,10 @@
 import { Header } from '../../components/Header'
-import { Summary } from "../../components/Summary"
-import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styles"
+import { Summary } from '../../components/Summary'
+import {
+  PriceHighlight,
+  TransactionsContainer,
+  TransactionsTable,
+} from './styles'
 
 export function Transactions() {
   return (
@@ -21,7 +25,7 @@ export function Transactions() {
             </tr>
 
             <tr>
-              <td >Hamburger</td>
+              <td>Hamburger</td>
               <td>
                 <PriceHighlight variant="outcome">- R$ 59,00</PriceHighlight>
               </td>
