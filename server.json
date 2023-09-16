@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": -5900,
       "createdAt": "2023-09-15T01:20:37.729Z"
+    },
+    {
+      "id": 3,
+      "description": "Bicicleta",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": -500,
+      "createdAt": "2023-09-15T01:20:53.729Z"
     }
   ]
 }
